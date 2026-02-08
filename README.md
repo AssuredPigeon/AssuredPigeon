@@ -1,24 +1,44 @@
 ## Hi there 👋
-
 # 👋 Hola, soy Daniel
 
 🎓 Estudiante de Ingeniería en Software y Tecnologías Emergentes  
-🤖 Interesado en IA, visión por computadora, bots y desarrollo móvil  
-💻 Programo en Python, C, Kotlin y JavaScript
+🤖 Interesado en Inteligencia Artificial, visión por computadora y sistemas inteligentes  
+💻 Me enfoco en construir proyectos prácticos con impacto real
 
-## 🚀 Proyectos destacados
-- 🎵 Bot de música para Discord con Whisper y BERT
-- 🧠 Compilador en Python (léxico, sintáctico y semántico)
-- 📱 Apps móviles con React Native
-- 🕶️ App VR con MediaPipe
+---
+
+## 🚀 Proyectos Destacados
+- 🎵 **Bot de música para Discord con IA**  
+  Reconocimiento de voz con Whisper, análisis de intención con BERT y recomendaciones musicales.
+- 🧠 **Compilador en Python**  
+  Análisis léxico, sintáctico y semántico con manejo de errores.
+- 📱 **Aplicaciones móviles**  
+  Desarrollo con React Native y enfoque en experiencia de usuario.
+- 🕶️ **Aplicación VR con MediaPipe**  
+  Seguimiento corporal y de manos en tiempo real.
+
+---
 
 ## 🛠️ Tecnologías
-Python | C | JavaScript | Kotlin  
-TensorFlow | OpenCV | React Native | Docker  
-Linux | Oracle Cloud | Git
+**Lenguajes:**  
+Python · C · JavaScript · Kotlin  
+
+**Frameworks & Herramientas:**  
+TensorFlow · OpenCV · React Native · MediaPipe  
+
+**Otros:**  
+Linux · Git · Docker · Oracle Cloud
+
+---
+
+## 📊 GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+
+---
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/daniel-tornero-1107ba1a0
+
 
 
 <!--
