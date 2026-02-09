@@ -18,30 +18,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Sobre Mí
-```typescript
-class Developer {
-    name: string = "Daniel Tornero";
-    role: string = "Software Engineering Student";
-    location: string = "México 🇲🇽";
-    
-    skills = {
-        ai: ["Computer Vision", "NLP", "Machine Learning"],
-        backend: ["APIs", "Databases", "Architecture"],
-        mobile: ["React Native", "Cross-platform"],
-        gamedev: ["Pygame", "Interactive Systems"],
-        cloud: ["Docker", "Oracle Cloud", "DevOps"]
-    };
-    
-    currentFocus = [
-        "Building AI-powered applications",
-        "Designing scalable systems",
-        "Creating intelligent automation"
-    ];
-    
-    lifePhilosophy = "Learning by doing, improving by refactoring";
-}
-```
 
 <br>
 
