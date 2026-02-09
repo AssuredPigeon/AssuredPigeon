@@ -19,11 +19,11 @@
 ---
 ## 🧠 Sobre mí
 
-Soy estudiante de Ingeniería en Software con un fuerte interés en el **desarrollo backend** y en la **lógica detrás de los sistemas**.  
+Soy estudiante de Ingeniería en Software con un fuerte interés en el desarrollo backend y en la lógica detrás de los sistemas.  
 Disfruto diseñar soluciones donde la arquitectura, el flujo de datos y la toma de decisiones son elementos clave.
 
-Me interesa aplicar **Inteligencia Artificial y Machine Learning** en sistemas reales, integrando modelos con backend, bases de datos y servicios.  
-He complementado mi formación académica con cursos de **IBM SkillsBuild**, enfocados en **Machine Learning y su aplicación práctica**.
+Me interesa aplicar Inteligencia Artificial y Machine Learning en sistemas reales, integrando modelos con backend, bases de datos y servicios.  
+He complementado mi formación académica con cursos de IBM SkillsBuild, enfocados en Machine Learning y su aplicación práctica.
 ---
 
 ## 🔧 Tecnologías
