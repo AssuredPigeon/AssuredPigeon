@@ -24,6 +24,7 @@ Disfruto diseñar soluciones donde la arquitectura, el flujo de datos y la toma 
 
 Me interesa aplicar Inteligencia Artificial y Machine Learning en sistemas reales, integrando modelos con backend, bases de datos y servicios.  
 He complementado mi formación académica con cursos de IBM SkillsBuild, enfocados en Machine Learning y su aplicación práctica.
+
 ---
 
 ## 🔧 Tecnologías
