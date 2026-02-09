@@ -4,33 +4,29 @@
 
 **Estudiante de Ingeniería en Software y Tecnologías Emergentes**
 
-🤖 **IA** | 🎮 **Game Dev** | ☁️ **Backend & Cloud**
+🤖 **IA** | 🎮 **Desarrollo de juegos** | ☁️ **Backend y nube**
 
-Desarrollo sistemas, bots inteligentes y aplicaciones interactivas
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tornero-1107ba1a0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Sewellsewy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AssuredPigeon-181717?style=flat&logo=github)](https://github.com/AssuredPigeon)
+Desarrollo de sistemas, bots inteligentes y aplicaciones interactivas.
 
 </div>
 
 ---
 
-## 💭 Philosophy
+## 💭 Filosofía
 
 > *"Learning by doing, improving by refactoring"*
 
-I'm passionate about building **real-world solutions** that combine **programming, artificial intelligence, and intelligent systems**. From backend architecture to AI integration, I enjoy creating complete projects from scratch to deployment.
+Apasionado por construir **soluciones del mundo real** que combinan **programación, inteligencia artificial y sistemas inteligentes**. Desde arquitectura backend hasta integración de IA, disfruto crear proyectos completos desde cero hasta el despliegue.
 
 ---
 
-## 🔧 Technologies
+## 🔧 Tecnologías
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### Languages
+### Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,7 +36,7 @@ I'm passionate about building **real-world solutions** that combine **programmin
 </td>
 <td valign="top" width="33%">
 
-### Frameworks & AI
+### Frameworks & IA
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -63,64 +59,86 @@ I'm passionate about building **real-world solutions** that combine **programmin
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos Destacados
 
-### 🎵 AI-Powered Discord Music Bot
-**Smart music player with voice recognition and recommendation system**
+<details>
+<summary><b>🎵 Bot de Música para Discord con IA</b></summary>
+<br>
 
-- 🎤 Voice command recognition using **Whisper**
-- 🧠 Intent analysis with **BERT-based models**  
-- 💾 Database management with **SQLite + Tortoise ORM**
-- 🎯 Intelligent recommendation system
+Sistema inteligente de reproducción musical con reconocimiento de voz y análisis de intención.
 
-`Python` `Discord.py` `Whisper` `AI/ML` `SQLite`
+**Características principales:**
+- 🎤 Reconocimiento de comandos por voz usando **Whisper**
+- 🧠 Análisis de intención con modelos tipo **BERT**
+- 💾 Gestión de base de datos con **SQLite + Tortoise ORM**
+- 🎯 Sistema de recomendaciones inteligente
 
----
+**Stack:** `Python` `Discord.py` `Whisper` `IA/ML` `SQLite`
 
-### 🧠 Python Compiler
-**Complete compiler with lexical, syntactic, and semantic analysis**
+</details>
 
-- 📝 Lexical and syntactic analysis
-- ✅ Semantic validation and type checking
-- 🔍 Advanced error handling
-- ⚡ Code optimization
+<details>
+<summary><b>🧠 Compilador en Python</b></summary>
+<br>
 
-`Python` `Compiler Design` `Language Processing`
+Compilador completo con análisis léxico, sintáctico y semántico.
 
----
+**Características principales:**
+- 📝 Análisis léxico y sintáctico
+- ✅ Validación semántica y verificación de tipos
+- 🔍 Manejo avanzado de errores
+- ⚡ Optimización de código
 
-### 🎮 Typing Speed Game
-**Interactive game to improve typing skills with dynamic difficulty**
+**Stack:** `Python` `Diseño de Compiladores` `Procesamiento de Lenguajes`
 
-- ⚡ Real-time scoring system
-- 👾 Enemy system with power-ups
-- 🎯 Dynamic difficulty adjustment
-- 🎪 Special events and challenges
+</details>
 
-`Python` `Pygame` `Game Development`
+<details>
+<summary><b>🎮 Juego de Mecanografía (Pygame)</b></summary>
+<br>
 
----
+Juego interactivo para mejorar la velocidad de escritura con dificultad dinámica.
 
-### 🕶️ VR Application with MediaPipe
-**Real-time body tracking for virtual reality interaction**
+**Características principales:**
+- ⚡ Sistema de puntuación en tiempo real
+- 👾 Sistema de enemigos con power-ups
+- 🎯 Ajuste dinámico de dificultad
+- 🎪 Eventos especiales y desafíos
 
-- 👋 Hand and body tracking
-- 🎥 Real-time pose estimation
-- 🔄 Virtual environment integration
-- 💻 Computer vision processing
+**Stack:** `Python` `Pygame` `Desarrollo de Videojuegos`
 
-`Python` `MediaPipe` `OpenCV` `Computer Vision`
+</details>
 
----
+<details>
+<summary><b>🕶️ Aplicación de Realidad Virtual con MediaPipe</b></summary>
+<br>
 
-### 📱 Mobile Applications
-**Cross-platform mobile development with focus on UX/UI**
+Seguimiento corporal en tiempo real para interacción en entornos virtuales.
 
-- 📱 React Native development
-- 🎨 User experience optimization
-- ⚙️ Functional logic implementation
+**Características principales:**
+- 👋 Seguimiento de manos y cuerpo
+- 🎥 Estimación de pose en tiempo real
+- 🔄 Integración con entornos virtuales
+- 💻 Procesamiento de visión por computadora
 
-`React Native` `JavaScript` `Mobile Development`
+**Stack:** `Python` `MediaPipe` `OpenCV` `Computer Vision`
+
+</details>
+
+<details>
+<summary><b>📱 Aplicaciones Móviles</b></summary>
+<br>
+
+Desarrollo multiplataforma con enfoque en UX/UI.
+
+**Características principales:**
+- 📱 Desarrollo con React Native
+- 🎨 Optimización de experiencia de usuario
+- ⚙️ Implementación de lógica funcional
+
+**Stack:** `React Native` `JavaScript` `Desarrollo Móvil`
+
+</details>
 
 ---
 
@@ -137,7 +155,7 @@ I'm passionate about building **real-world solutions** that combine **programmin
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 Actualmente trabajando en
 ```python
 current_focus = {
     "learning": [
@@ -160,32 +178,32 @@ current_focus = {
 
 ---
 
-## 🎯 Interests & Focus Areas
+## 🎯 Áreas de interés
 
-- 🤖 **Artificial Intelligence**: Computer Vision, NLP, Machine Learning
-- 🎮 **Game Development**: Interactive systems and simulations  
-- ⚙️ **Backend Engineering**: APIs, databases, and cloud architecture
-- 🔧 **Automation**: Bots and intelligent systems
-- ☁️ **DevOps**: Containerization, deployment, and scalability
+- 🤖 **Inteligencia Artificial**: Visión por Computadora, NLP, Machine Learning
+- 🎮 **Desarrollo de Videojuegos**: Sistemas interactivos y simulaciones  
+- ⚙️ **Ingeniería Backend**: APIs, bases de datos y arquitectura cloud
+- 🔧 **Automatización**: Bots y sistemas inteligentes
+- ☁️ **DevOps**: Containerización, despliegue y escalabilidad
 
 ---
 
 <div align="center">
 
-### 📬 Let's Connect
+## 🤝 Conectémonos
 
-**Open to collaborations and interesting projects**
+**Abierto a colaboraciones y proyectos interesantes**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tornero-1107ba1a0)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sewellsewy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AssuredPigeon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tornero-1107ba1a0)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sewellsewy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AssuredPigeon)
 
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=AssuredPigeon&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AssuredPigeon&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
 
 ---
 
-⭐ From [AssuredPigeon](https://github.com/AssuredPigeon)
+⭐ De [AssuredPigeon](https://github.com/AssuredPigeon)
 
 </div>
