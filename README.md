@@ -1,93 +1,133 @@
-<h1 align="center">👋 Hola, soy Daniel</h1>
+<div align="center">
+  
+# 👋 ¡Hola! Soy Daniel Tornero
 
-<p align="center">
-  🎓 Estudiante de Ingeniería en Software y Tecnologías Emergentes <br>
-  💻 Desarrollo sistemas, bots inteligentes y aplicaciones interactivas <br>
-  🤖 IA | 🎮 Game Dev | ☁️ Backend & Cloud
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Software;Desarrollador+Full+Stack;Entusiasta+de+IA+y+Cloud;Creador+de+Bots+Inteligentes)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-</p>
+</div>
 
 ---
 
 ## 🚀 Sobre mí
-Soy estudiante de ingeniería enfocado en construir **proyectos prácticos con impacto real**, combinando  
-**programación, inteligencia artificial y sistemas inteligentes**.
 
-Me interesa especialmente:
-- Inteligencia Artificial aplicada
-- Visión por computadora
-- Bots y automatización
-- Videojuegos y simulaciones
-- Backend, arquitectura y cloud computing
+Estudiante de **Ingeniería en Software y Tecnologías Emergentes** enfocado en construir **proyectos prácticos con impacto real**. Combino programación, inteligencia artificial y sistemas inteligentes para crear soluciones innovadoras.
 
-Disfruto desarrollar proyectos completos, desde la lógica interna hasta la integración con APIs, bases de datos y despliegue.
-
----
-
-## 🧠 Proyectos destacados
-🎵 **Bot de música para Discord con IA**  
-> Reconocimiento de voz con Whisper, análisis de intención con modelos tipo BERT, sistema de recomendaciones y base de datos  
-**Tecnologías:** Python, Discord.py, Whisper, SQLite, Tortoise ORM
-
-🧠 **Compilador en Python**  
-> Análisis léxico, sintáctico y semántico, validación de tipos y manejo de errores
-
-🎮 **Juego de mecanografía en Python (Pygame)**  
-> Enemigos, power-ups, sistema de puntuación por velocidad, dificultad dinámica y eventos especiales
-
-🕶️ **Aplicación de Realidad Virtual con MediaPipe**  
-> Seguimiento corporal y de manos en tiempo real para interacción en entornos virtuales
-
-📱 **Aplicaciones móviles**  
-> Desarrollo con React Native, enfoque en experiencia de usuario y lógica funcional
+### 🎯 Áreas de interés
+```python
+intereses = {
+    "IA": ["Visión por Computadora", "NLP", "Machine Learning"],
+    "Desarrollo": ["Bots & Automatización", "Game Development", "Backend & APIs"],
+    "Cloud": ["Arquitectura Escalable", "DevOps", "Sistemas Distribuidos"]
+}
+```
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tech Stack
 
-**Lenguajes:**  
-Python · C · JavaScript · Kotlin · SQL  
+### 💻 Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Librerías:**  
-Flask · Discord.py · TensorFlow · OpenCV · React Native · MediaPipe  
+### 🧰 Frameworks & Librerías
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Bases de datos:**  
-SQLite  
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**DevOps & Cloud:**  
-Docker · Oracle Cloud · Linux  
-
-**Conceptos:**  
-POO · Estructuras de datos · ORM · Análisis de lenguajes · SDLC · Sistemas distribuidos
+### 🗄️ Bases de Datos
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## 📈 Actualmente
-- Profundizando en IA aplicada y visión por computadora
-- Mejorando arquitecturas backend
-- Construyendo sistemas más modulares y escalables
-- Integrando APIs y servicios cloud
+## 🎯 Proyectos Destacados
+
+### 🎵 Bot de Música para Discord con IA
+> Sistema inteligente de reproducción musical con reconocimiento de voz y análisis de intención
+- **Stack:** Python, Discord.py, Whisper, BERT, SQLite, Tortoise ORM
+- **Features:** Reconocimiento de comandos por voz, sistema de recomendaciones, análisis de contexto
+
+### 🧠 Compilador en Python
+> Compilador completo con análisis léxico, sintáctico y semántico
+- **Features:** Validación de tipos, manejo de errores, optimización de código
+
+### 🎮 Juego de Mecanografía (Pygame)
+> Juego interactivo para mejorar velocidad de escritura
+- **Features:** Sistema de puntuación dinámico, power-ups, dificultad adaptativa, eventos especiales
+
+### 🕶️ Aplicación de Realidad Virtual
+> Sistema de tracking corporal para interacción en VR
+- **Stack:** Python, MediaPipe, OpenCV
+- **Features:** Seguimiento de manos y cuerpo en tiempo real
+
+### 📱 Aplicaciones Móviles
+> Desarrollo multiplataforma con enfoque en UX/UI
+- **Stack:** React Native, JavaScript
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AssuredPigeon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssuredPigeon&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AssuredPigeon&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## 📫 Contacto
-- GitHub: **@TU_USUARIO**
-- LinkedIn: https://www.linkedin.com/in/daniel-tornero-1107ba1a0
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <em>"Aprender haciendo, mejorar refactorizando."</em>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AssuredPigeon&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+</div>
+
+---
+
+## 📈 Actualmente
+```javascript
+const daniel = {
+    aprendiendo: ["IA Aplicada", "Visión por Computadora", "Arquitecturas Backend"],
+    mejorando: ["Sistemas Modulares", "Escalabilidad", "Clean Code"],
+    experimentando: ["APIs REST", "Cloud Services", "Containerización"],
+    objetivo: "Crear soluciones tecnológicas innovadoras y escalables"
+};
+```
+
+---
+
+## 📬 Conecta Conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tornero-1107ba1a0)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AssuredPigeon)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sewellsewy@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Filosofía de Desarrollo
+
+**"Aprender haciendo, mejorar refactorizando."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=AssuredPigeon&color=7AA2F7&style=for-the-badge)
+
+</div>
