@@ -1,289 +1,82 @@
-<div align="center">
-
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,6&height=200&section=header&text=DANIEL%20TORNERO&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Developer%20|%20Systems%20Architect&descSize=20&descAlignY=55" width="100%"/>
-
-<br>
-
-<!-- ANIMATED TEXT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&height=60&lines=Building+Intelligent+Systems+🤖;AI+|+Backend+|+Cloud+|+GameDev+🚀;From+Concept+to+Deployment+⚡" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://www.linkedin.com/in/daniel-tornero-1107ba1a0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Sewellsewy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/AssuredPigeon">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AssuredPigeon&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=DANIEL%20TORNERO&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20|%20AI%20Developer%20|%20System%20Architect&descSize=25&descAlignY=60" width="100%"/>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🤖+Building+Intelligent+Systems;🎮+Creating+Interactive+Experiences;☁️+Designing+Scalable+Architecture;⚡+From+Idea+to+Deployment" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Student-Software_Engineering-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/📍_Location-Tijuana,_MX-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/💼_Focus-AI_&_Backend-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-tornero-1107ba1a0">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  </a>
+  <a href="mailto:Sewellsewy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
+  <a href="https://github.com/AssuredPigeon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AssuredPigeon&style=for-the-badge&color=00D9FF&labelColor=1a1a2e" />
+</p>
 
 <br>
 
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-<!-- ABOUT ME SECTION -->
 <div align="center">
 
-## 👨‍💻 About Me
-
-</div>
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-class DanielTornero:
-    def __init__(self):
-        self.username = "AssuredPigeon"
-        self.role = "Software Engineering Student"
-        self.location = "🇲🇽 Tijuana, Mexico"
-        self.education = "Software Engineering & Emerging Technologies"
-        
-        self.languages = {
-            "expert": ["Python", "JavaScript"],
-            "intermediate": ["C", "Kotlin", "SQL"],
-            "learning": ["Rust", "Go"]
-        }
-        
-        self.specializations = [
-            "🤖 Artificial Intelligence & Machine Learning",
-            "👁️ Computer Vision & Image Processing",
-            "🎮 Game Development & Interactive Systems",
-            "☁️ Backend Architecture & Cloud Computing",
-            "🔧 Intelligent Automation & Bots"
-        ]
-        
-        self.philosophy = "Learning by doing, improving by refactoring"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = DanielTornero()
-me.say_hi()
-```
-
-<br>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-<!-- TECH STACK SECTION -->
-<div align="center">
-
-## 🛠️ Technology Stack
-
-</div>
-
-<div align="center">
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C)
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧠 AI & Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### ⚡ Frameworks & Tools
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🗄️ Databases
-
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-<br>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-<!-- PROJECTS SECTION -->
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
+## 🎯 PHILOSOPHY & MISSION
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🎵 AI-Powered Discord Music Bot
+<img src="https://user-images.githubusercontent.com/74038190/216649426-3adbb8e1-c287-4977-b72d-c1c0c2c80b80.gif" width="200"/>
 
-**Smart music player with voice recognition**
+### 💡 Philosophy
 
-```yaml
-Features:
-  - Voice command recognition (Whisper)
-  - Intent analysis (BERT models)
-  - Smart recommendations
-  - Database management (SQLite + ORM)
+> **"Learning by doing,**  
+> **improving by refactoring"**
 
-Tech Stack:
-  - Python
-  - Discord.py
-  - AI/ML
-  - SQLite
-```
-
-🎯 **Impact:** Natural language music control
+I believe in building **real-world solutions**  
+that combine **programming, AI, and creativity**
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🧠 Python Compiler
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
 
-**Complete compiler from scratch**
+### 🚀 Mission
 
-```yaml
-Components:
-  - Lexical analyzer
-  - Syntax parser
-  - Semantic validator
-  - Type checker
-  - Code optimizer
+Building **intelligent systems**  
+that solve **real problems**
 
-Tech Stack:
-  - Python
-  - Compiler Design
-  - Language Processing
-```
-
-🎯 **Impact:** Deep understanding of programming languages
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Typing Speed Game
-
-**Educational game with adaptive difficulty**
-
-```yaml
-Features:
-  - Real-time scoring
-  - Enemy system
-  - Power-ups
-  - Dynamic difficulty
-
-Tech Stack:
-  - Python
-  - Pygame
-  - Game Development
-```
-
-🎯 **Impact:** Fun way to improve typing skills
-
-</td>
-<td width="50%" valign="top">
-
-### 🕶️ VR Body Tracking
-
-**Real-time pose estimation for VR**
-
-```yaml
-Capabilities:
-  - Hand tracking
-  - Body pose detection
-  - 60fps processing
-  - VR integration
-
-Tech Stack:
-  - Python
-  - MediaPipe
-  - OpenCV
-  - Computer Vision
-```
-
-🎯 **Impact:** Accessible VR interaction
+From **concept** to **deployment**,  
+creating **scalable solutions**
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-<!-- GITHUB STATS -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AssuredPigeon&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=F8F8F2&ring_color=36BCF7" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AssuredPigeon&theme=react&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideNums=F8F8F2&sideLabels=F8F8F2" alt="GitHub Streak"/>
-
-<br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssuredPigeon&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=F8F8F2&langs_count=10" alt="Top Languages"/>
-
-<br><br>
-
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AssuredPigeon&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7" width="100%" alt="Contribution Graph"/>
-
-<br>
-
-<!-- PROFILE TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=AssuredPigeon&theme=discord&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophies"/>
-
 </div>
 
 <br>
 
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-<!-- CURRENT FOCUS -->
 <div align="center">
 
-## 🎯 Current Focus
+## 💻 TECHNOLOGY ECOSYSTEM
 
 </div>
 
@@ -291,42 +84,50 @@ Tech Stack:
 <tr>
 <td align="center" width="25%">
 
-**📚 LEARNING**
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
 
-Applied AI  
-Computer Vision  
-Cloud Architecture  
-System Design
+### Python
 
-</td>
-<td align="center" width="25%">
+**Expert Level**
 
-**🔨 BUILDING**
-
-Scalable Systems  
-API Integration  
-Automation Tools  
-AI Applications
+AI/ML • Backend  
+Automation • Scripts
 
 </td>
 <td align="center" width="25%">
 
-**📈 IMPROVING**
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
 
-Code Quality  
-Best Practices  
-DevOps Workflows  
-Architecture
+### JavaScript
+
+**Advanced Level**
+
+React Native  
+Web Development
 
 </td>
 <td align="center" width="25%">
 
-**💡 EXPLORING**
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="80" height="80" />
 
-Edge Computing  
-MLOps  
-Serverless  
-Microservices
+### C
+
+**Intermediate**
+
+Systems Programming  
+Compilers
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
+
+### Docker
+
+**Containerization**
+
+Deployment  
+DevOps
 
 </td>
 </tr>
@@ -334,45 +135,272 @@ Microservices
 
 <br>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-<!-- CONNECT SECTION -->
 <div align="center">
 
-## 🤝 Let's Connect
+### 🔧 FULL STACK
 
-**Open to collaborations, interesting projects, and tech discussions**
-
-<br>
-
-<a href="https://www.linkedin.com/in/daniel-tornero-1107ba1a0">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:Sewellsewy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/AssuredPigeon">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-### 💭 Philosophy
-
-> **"Learning by doing, improving by refactoring"**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,kotlin,tensorflow,pytorch,opencv,flask,react,nodejs,docker,linux,git,github,postgresql,sqlite,aws,gcp,vscode,vim&perline=10" />
+</p>
 
 </div>
 
 <br>
 
-<!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,6&height=100&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
 
 <div align="center">
 
-**⭐ Made with 💙 by [AssuredPigeon](https://github.com/AssuredPigeon) ⭐**
+## 🎨 FEATURED PROJECTS
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+
+### 🎵 AI Music Bot
+
+**Intelligent Discord Bot**
+
+</div>
+```yaml
+🎤 Voice Recognition: Whisper AI
+🧠 Intent Analysis: BERT Models
+💾 Database: SQLite + ORM
+🎯 Features: Smart Recommendations
+```
+
+**Impact:** Natural language music control
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![AI](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+
+### 🧠 Python Compiler
+
+**Language Processor**
+
+</div>
+```yaml
+📝 Lexical Analysis: Tokenization
+🌳 Syntax Parsing: AST Generation
+✅ Semantic Check: Type Validation
+⚡ Optimization: Code Enhancement
+```
+
+**Impact:** Deep PL understanding
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Compiler](https://img.shields.io/badge/-Compiler-000000?style=flat-square&logo=GNU&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+
+### 🎮 Typing Game
+
+**Educational Game**
+
+</div>
+```yaml
+⚡ Scoring: Real-time Performance
+👾 Enemies: Progressive Difficulty
+💥 Power-ups: Special Abilities
+🎯 Adaptive: Dynamic Challenge
+```
+
+**Impact:** Gamified learning
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Pygame](https://img.shields.io/badge/-Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
+
+### 🕶️ VR Tracking
+
+**Body Pose System**
+
+</div>
+```yaml
+👋 Hand Tracking: MediaPipe
+🏃 Body Pose: Real-time Detection
+🎥 Processing: 60fps Performance
+🔄 Integration: VR Environments
+```
+
+**Impact:** Accessible VR interaction
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+## 📊 GITHUB ANALYTICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AssuredPigeon&show_icons=true&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AssuredPigeon&theme=cobalt&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssuredPigeon&layout=compact&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=AssuredPigeon&limit=5&theme=cobalt&hide_border=true&background=0d1117&title_color=00D9FF&text_color=ffffff" />
+
+<img src="https://github-profile-trophy.vercel.app/api/?username=AssuredPigeon&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AssuredPigeon&custom_title=Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+## 🎯 CURRENT TRAJECTORY
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+
+### 📚 LEARNING
+
+✨ Applied AI & ML  
+✨ Computer Vision  
+✨ Cloud Architecture  
+✨ System Design Patterns
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+
+### 🔨 BUILDING
+
+✨ Scalable Systems  
+✨ API Integration  
+✨ Automation Tools  
+✨ AI Applications
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"/>
+
+### 📈 IMPROVING
+
+✨ Code Quality  
+✨ Best Practices  
+✨ DevOps Workflows  
+✨ Architecture Design
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+## 🤝 LET'S COLLABORATE
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
+<h3>💬 Open to collaborations, projects, and tech discussions</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/daniel-tornero-1107ba1a0">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  </a>
+  <a href="mailto:Sewellsewy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
+  <a href="https://github.com/AssuredPigeon">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%22Learning+by+doing%2C+improving+by+refactoring%22" alt="Philosophy" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+</p>
+
+<div align="center">
+
+**⭐ Crafted with 💙 by [AssuredPigeon](https://github.com/AssuredPigeon)**
 
 </div>
