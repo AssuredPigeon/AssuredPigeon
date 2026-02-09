@@ -85,20 +85,27 @@ Sistema inteligente de reproducción musical con reconocimiento de voz y anális
 </details>
 
 <details>
-<summary><b>🧠 Compilador en Python</b></summary>
+<summary><b>🧠 Visualización Semántica del Entrenamiento de Modelos</b></summary>
 <br>
 
-Compilador completo con análisis léxico, sintáctico y semántico.
+Herramienta para visualizar y analizar el proceso de entrenamiento de modelos de aprendizaje automático, 
+permitiendo observar la evolución semántica de los datos a lo largo de las generaciones.
 
 **Características principales:**
-- 📝 Análisis léxico y sintáctico
-- ✅ Validación semántica y verificación de tipos
-- 🔍 Manejo avanzado de errores
-- ⚡ Optimización de código
+- 📊 Visualización de datasets en **2D y 3D**
+- 🔄 Representación temporal del entrenamiento usando la **generación como eje**
+- 🧠 Métodos de reducción de dimensionalidad:
+  - PCA
+  - t-SNE
+  - Kernel PCA
+  - UMAP
+- 🔍 Análisis visual del comportamiento y separación de clases
+- 🧪 Comparación entre distintos métodos de reducción
 
-**Stack:** `Python` `Diseño de Compiladores` `Procesamiento de Lenguajes`
+**Stack:** `Python` `Machine Learning` `PCA` `t-SNE` `UMAP` `Visualización de Datos`
 
 </details>
+
 
 <details>
 <summary><b>🎮 Juego de Mecanografía (Pygame)</b></summary>
