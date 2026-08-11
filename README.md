@@ -202,6 +202,25 @@ Machine learning platform for classifying potential exoplanets from NASA Exoplan
 
 </details>
 
+<details>
+<summary><b>Semantic Review Insights — NLP Review Analysis API</b> &nbsp;·&nbsp; <a href="https://github.com/AssuredPigeon/semantic-review-insights">GitHub ↗</a></summary>
+<br>
+
+Production-ready REST API that ingests raw user reviews, validates and vectorizes them through an NLP pipeline, and exposes semantic search and analytics endpoints. Built solo end-to-end: data pipeline, API, security, and testing.
+
+**Key features:**
+- Built an **end-to-end NLP ingestion pipeline**: raw review text → validation (length, language, spam filters) → **sentence-transformers** vectorization → pgvector storage — translating unstructured data into semantic vectors ready for similarity queries
+- Implemented **semantic search** with `pgvector` cosine similarity, enabling nearest-neighbor retrieval of reviews by meaning rather than keyword matching
+- Designed the **full API layer** with **FastAPI** + **SQLModel**: typed routes, dependency injection, automatic OpenAPI docs, and structured error responses
+- Applied **JWT authentication** (OAuth2 Bearer) with role-based access and Pydantic v2 for strict payload validation and serialization across all endpoints
+- Implemented **cursor-based pagination** to serve large review collections efficiently without memory spikes — stateless and cache-friendly
+- Built a **comprehensive test suite** with pytest and HTTPX async client: unit tests for pipeline stages, integration tests for auth flows, and parametrized edge-case coverage
+- Managed data layer with **Alembic** migrations, keeping schema changes version-controlled and reversible
+
+**Stack:** `Python` `FastAPI` `SQLModel` `PostgreSQL` `pgvector` `sentence-transformers` `Pydantic` `JWT` `Alembic` `pytest` `Docker`
+
+</details>
+
 <br>
 
 ---
