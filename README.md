@@ -206,14 +206,15 @@ Machine learning platform for classifying potential exoplanets from NASA Exoplan
 <summary><b>Semantic Review Insights — NLP Review Analysis API</b> &nbsp;·&nbsp; <a href="https://github.com/AssuredPigeon/semantic-review-insights">GitHub ↗</a></summary>
 <br>
 
-Production-ready REST API that ingests raw user reviews, validates and vectorizes them through an NLP pipeline, and exposes semantic search and analytics endpoints. Built solo end-to-end: data pipeline, API, security, and testing.
+Production-ready REST API that ingests raw user reviews, validates and vectorizes them through an NLP pipeline, and exposes semantic search and batch processing endpoints. Built solo end-to-end: data pipeline, API, security, and testing.
 
 **Key features:**
 - Built an **end-to-end NLP ingestion pipeline**: raw review text → validation (length, language, spam filters) → **sentence-transformers** vectorization → pgvector storage — translating unstructured data into semantic vectors ready for similarity queries
 - Implemented **semantic search** with `pgvector` cosine similarity, enabling nearest-neighbor retrieval of reviews by meaning rather than keyword matching
 - Designed the **full API layer** with **FastAPI** + **SQLModel**: typed routes, dependency injection, automatic OpenAPI docs, and structured error responses
 - Applied **JWT authentication** (OAuth2 Bearer) with role-based access and Pydantic v2 for strict payload validation and serialization across all endpoints
-- Implemented **cursor-based pagination** to serve large review collections efficiently without memory spikes — stateless and cache-friendly
+- Implemented **offset-based pagination** (`limit` and `skip`) to serve large review collections efficiently
+- Built a **batch processing endpoint** (`/process`) to backfill embeddings for existing reviews with robust error handling
 - Built a **comprehensive test suite** with pytest and HTTPX async client: unit tests for pipeline stages, integration tests for auth flows, and parametrized edge-case coverage
 - Managed data layer with **Alembic** migrations, keeping schema changes version-controlled and reversible
 
@@ -227,10 +228,10 @@ Production-ready REST API that ingests raw user reviews, validates and vectorize
 
 ## Certifications
 
-**Artificial Intelligence Fundamentals** | Guayerd & IBM SkillsBuild · 2024  
+**[Artificial Intelligence Fundamentals](https://drive.google.com/file/d/1Br7nb2-yGvdUdyx3zzZN8tr0w_zVDoyE/view?usp=sharing)** | Guayerd & IBM SkillsBuild · 2024  
 257 hours of professional practice | ID: GUAYERD-IBM-IA-2025192130
 
-**Mendix Rapid Developer Certification** | Mendix · 2025  
+**[Mendix Rapid Developer Certification](https://drive.google.com/file/d/1GiASIiPTdZGVrDthD-4XAdEgZ_tRic2q/view?usp=sharing)** | Mendix · 2025  
 Official low-code development certification | Cert. No. 92922
 
 **TensorFlow Developer Professional Certificate** | DeepLearning.AI / Coursera · 2026  
@@ -240,12 +241,12 @@ In progress — covers neural networks, CNNs, NLP, and time series with TensorFl
 
 ## Recognition & Awards
 
-**NASA Space Apps Challenge 2025** | Galactic Problem Solver | Oct 2025
+**[NASA Space Apps Challenge 2025](https://drive.google.com/file/d/1TfEPAZHzFFZk0ObKnFkQ8wt6VtV1PRDj/view?usp=sharing)** | Galactic Problem Solver | Oct 2025
 
-**Postgraduate Seminar in Engineering Sciences** | TecNM Tijuana | Mar 2026  
+**[Postgraduate Seminar in Engineering Sciences](https://drive.google.com/file/d/11TmEU31QuhRtvdxS0UAguyFFNCxuDvQN/view?usp=sharing)** | TecNM Tijuana | Mar 2026  
 Talk: *"Semantic Space Visualization in Augmented Reality"*
 
-**Academic Week — Instituto Tecnológico de Tijuana** | Nov 2025  
+**[Academic Week — Instituto Tecnológico de Tijuana](https://drive.google.com/file/d/1v8v06Ri0R0eQdnnODwX1cHGUUROIpEwi/view?usp=sharing)** | Nov 2025  
 Poster: *"Semantic Visualization"*
 
 ---
