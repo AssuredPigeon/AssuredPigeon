@@ -20,7 +20,7 @@
 
 ## About me
 
-I'm a Software Engineer specializing in backend systems and AI/LLM integration, currently in my 7th semester at UABC. I work as an independent AI contractor evaluating frontier language models, and I've built and deployed production systems integrating Google Gemini API, OpenAI Whisper, and custom LLM workflows. I have 257 certified hours in AI (Guayerd & IBM SkillsBuild, 2024) and presented research at a postgraduate seminar at Instituto Tecnológico de Tijuana (2026).
+I'm a Software Engineer specializing in backend systems and AI/LLM integration, currently in my 7th semester at UABC. I've built and deployed production systems integrating Google Gemini API, OpenAI Whisper, and custom LLM workflows. I have 257 certified hours in AI (Guayerd & IBM SkillsBuild, 2024) and presented research at a postgraduate seminar at Instituto Tecnológico de Tijuana (2026).
 
 ---
 
