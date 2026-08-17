@@ -116,7 +116,7 @@ Full-stack mobile platform to detect, map, and crowdsource road anomalies (potho
 Research platform to visualize and analyze the training process of genetic programming models (GSGP), tracking semantic evolution across generations with interactive 2D/3D projections.
 
 **Key features:**
-- Evaluated the **Google Gemini API** for automatic interpretation of genetic algorithm outputs — identified precision limitations in specific mathematical contexts and built a **custom LLM-based workflow** as a more controllable alternative
+- Evaluated the **Google Gemini API** for automatic interpretation of genetic algorithm outputs — identified precision limitations in specific mathematical contexts and am building a **custom LLM-based workflow** as a more controllable alternative (in progress; current demo still runs on the Gemini API)
 - Built a **server-side animated GIF engine** (matplotlib + Pillow) supporting 2D/3D scatter plots, 360° rotation, progressive evolution trace, and convergence charts — all rendered server-side for instant downloads
 - Implemented a **3D Generation View** that uses generation number as the Z axis on 2D data, with smooth real-time camera rotation and Play/Pause generation animation
 - Designed a **Focus Mode** (full-screen immersive view) with a compact floating toolbar for distraction-free analysis
