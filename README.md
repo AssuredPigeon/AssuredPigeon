@@ -110,7 +110,7 @@ Full-stack mobile platform to detect, map, and crowdsource road anomalies (potho
 </details>
 
 <details>
-<summary><b>Semantic Visualization — ML Training Visualization Platform</b> &nbsp;·&nbsp; <a href="http://40.233.21.60/">Live Demo ↗</a></summary>
+<summary><b>Semantic Visualization — ML Training Visualization Platform</b> &nbsp;·&nbsp; <a href="https://github.com/AssuredPigeon/Semantic-Visualization">GitHub ↗</a> &nbsp;|&nbsp; <a href="http://40.233.21.60/">Live Demo ↗</a></summary>
 <br>
 
 Research platform to visualize and analyze the training process of genetic programming models (GSGP), tracking semantic evolution across generations with interactive 2D/3D projections.
