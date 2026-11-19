@@ -44,6 +44,8 @@ I'm a Software Engineer specializing in backend systems and AI/LLM integration, 
 
 ### Frameworks & AI
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -219,6 +221,25 @@ Production-ready REST API that ingests raw user reviews, validates and vectorize
 - Managed data layer with **Alembic** migrations, keeping schema changes version-controlled and reversible
 
 **Stack:** `Python` `FastAPI` `SQLModel` `PostgreSQL` `pgvector` `sentence-transformers` `Pydantic` `JWT` `Alembic` `pytest` `Docker`
+
+</details>
+
+<details>
+<summary><b>PortafolioDinamico — Self-Updating Portfolio & Custom PyTorch NLP Engine</b> &nbsp;·&nbsp; <a href="https://github.com/AssuredPigeon/PortafolioDinamico">GitHub ↗</a></summary>
+<br>
+
+Self-updating full-stack developer portfolio platform powered by a custom PyTorch neural sentence extractor (`PortfolioReadmeNet`), automated GitHub API synchronization, and deterministic static code inspection.
+
+**Key features:**
+- Designed and built **`PortfolioReadmeNet`** from scratch in **PyTorch** (`Embedding` → bidirectional `LSTM` → masked `SelfAttentionPooling` fused with 6 structural features) with dual multitask heads for extractive README sentence salience and portfolio-project classification
+- Implemented a **two-phase leak-free training pipeline**: selected the optimal epoch using a strictly `train`-only vocabulary (`1,098` tokens on `112/28` split, Epoch `16`, **93.33% val F1**), then refitted the production model on all `140` bilingual (ES/EN) samples (`1,284` tokens, `16` frozen epochs)
+- Built a reproducible experimental audit suite (`audit_ablation.py`): **5-fold `StratifiedGroupKFold`** over `89` audited `repo_id` groups with zero fold overlap (**89.28% ± 6.56% F1**, sample `ddof=1`), 5-seed pooling comparison (`SelfAttentionPooling` `90.53% ± 4.76%` vs `Mean Pooling` `90.61% ± 5.66%` — retained `SelfAttention` as a design choice for lexical interpretability), branch ablation, and a documented *No-Go* morphological stemming experiment (`stem=False`)
+- Added **Maximal Marginal Relevance (MMR)** (`λ = 0.72`, `jaccard_cutoff = 0.52`) combining 64-d L2-normalized BiLSTM cosine similarity and Jaccard overlap to prevent repetitive summaries — reducing mean Jaccard similarity from `0.6982` to `0.0100` in the 4/6 controlled multi-sentence test cases that preserved two complementary sentences (while suppressing clones in the other 2/6 single-sentence outputs)
+- Exposed learned token attention weights (`α_t`) via `forward_with_context()` into a **bilingual ES/EN XAI inspector** on the frontend (`Interpretabilidad: Atención (α_t)`) with proportional weight bars and highlighted tokens
+- Built a deterministic **static repository inspector** (`repo_inspector.py`) as a fallback when repositories lack READMEs or only contain untouched starter templates (Laravel, Expo, Next.js, NestJS, Vite), synthesizing bilingual stack descriptions directly from manifests and source structure
+- Engineered the **FastAPI + SQLAlchemy 2.0** backend supporting **SQLite (WAL)** and **PostgreSQL**, GitHub sync with local backup and read-only URL preview mode (`?user=`), Chart.js weekly activity analytics, and an **18-test pytest suite** (all passing)
+
+**Stack:** `Python` `PyTorch` `FastAPI` `SQLAlchemy` `SQLite` `PostgreSQL` `scikit-learn` `HTTPX` `JavaScript` `Chart.js` `pytest` `GitHub Actions`
 
 </details>
 
